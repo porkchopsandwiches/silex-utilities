@@ -3,7 +3,6 @@
   "description": "Some general utility classes suitable for use as Silex services.",
   "keywords": ["silex"],
   "license": "MIT",
-  "version": "1.0.0",
   "authors": [
     {
       "name": "Cam Morrow",
